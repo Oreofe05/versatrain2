@@ -18,19 +18,19 @@ const AboutPage = () => {
       // bio: 'Full-stack developer and former tech lead at major Silicon Valley companies.'
     },
     {
-      name: 'Balogun Olamilekan',
+      name: 'Mr Balogun Olamilekan',
       role: 'Chief Operating Officer(COO) and head of IT',
       image: 'src/assets/Mr Balogun.jpg',
       // bio: 'Award-winning graphic designer with expertise in digital media and brand identity.'
     },
     {
-      name: 'Olukolade Ore-ofe',
+      name: 'Mr Ore-ofe',
       role: 'Personal Development Coach',
       image: 'src/assets/Ore-.jpg',
       // bio: 'Certified life coach specializing in leadership development and emotional intelligence.'
     },
     {
-      name: 'Akinyele Ifeoluwa',
+      name: 'Miss Akinyele Ifeoluwa',
       role: 'Voice of VersaTrain Academy',
       image: 'src/assets/Miss Ifeoluwaa.jpg',
       // bio: 'Certified life coach specializing in leadership development and emotional intelligence.'
