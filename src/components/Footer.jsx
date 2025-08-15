@@ -18,7 +18,7 @@ const Footer = () => {
               technology, and personal growth. Learn online or in-person with expert instructors.
             </p>
             <div className="flex space-x-4">
-              <a href="#" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a href="https://www.facebook.com/share/1Nmvxus4W5/" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
               <a href="#" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
