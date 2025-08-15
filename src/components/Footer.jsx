@@ -21,7 +21,7 @@ const Footer = () => {
               <a href="https://www.facebook.com/share/1Nmvxus4W5/" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="#" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a href="https://x.com/VersaTrain_A?t=G5YGWGrfSDKcS--WC8C4rQ&s=09" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
                 <Twitter className="h-5 w-5" />
               </a>
               <a href="https://www.instagram.com/versatrain_academy?igsh=MTJleGthMm9ucnZ5OA==" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
