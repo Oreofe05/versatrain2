@@ -1,4 +1,4 @@
-
+import React from 'react';
 import { motion } from 'framer-motion';
 import { Heart, Eye, Target, Lightbulb, Rocket, Shield, Star } from 'lucide-react';
 
