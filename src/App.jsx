@@ -14,10 +14,12 @@ import BlogPage from './pages/BlogPage';
 // import PartnershipsPage from './pages/PartnershipsPage';
 import ContactPage from './pages/ContactPage';
 // import GalleryPage from './pages/GalleryPage';
+import ScrollToTop from './pages/ScrollToTop';
 
 function App() {
   return (
     <Router>
+      <ScrollToTop/>
       <div className="min-h-screen bg-white">
         <Navbar/>
         <AnimatePresence mode='wait'>
