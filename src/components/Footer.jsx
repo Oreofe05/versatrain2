@@ -18,16 +18,16 @@ const Footer = () => {
               technology, and personal growth. Learn online or in-person with expert instructors.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a href="#" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a href="#" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a href="https://www.instagram.com/versatrain_academy?igsh=MTJleGthMm9ucnZ5OA==" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" className="text-gray-300 hover:text-blue-400 transition-colors">
+              <a href="#" target='_blank' className="text-gray-300 hover:text-blue-400 transition-colors">
                 <Linkedin className="h-5 w-5" />
               </a>
             </div>
