@@ -10,7 +10,7 @@ import CourseDetailPage from './pages/CourseDetailPage';
 // import StudentDashboard from './pages/StudentDashboard';
 import TestimonialsPage from './pages/TestimonialsPage';
 import SuccessStoriesPage from './pages/SuccessStoriesPage';
-// import BlogPage from './pages/BlogPage';
+import BlogPage from './pages/BlogPage';
 // import PartnershipsPage from './pages/PartnershipsPage';
 import ContactPage from './pages/ContactPage';
 // import GalleryPage from './pages/GalleryPage';
@@ -29,7 +29,7 @@ function App() {
             {/* <Route path="/dashboard" element={<StudentDashboard />} /> */}
             <Route path="/testimonials" element={<TestimonialsPage />} />
             {/* <Route path="/success-stories" element={<SuccessStoriesPage />} /> */}
-            {/* <Route path="/blog" element={<BlogPage />} /> */}
+            <Route path="/blog" element={<BlogPage />} />
             {/* <Route path="/partnerships" element={<PartnershipsPage />} /> */}
             <Route path="/contact" element={<ContactPage />} />
             {/* <Route path="/gallery" element={<GalleryPage />} /> */}

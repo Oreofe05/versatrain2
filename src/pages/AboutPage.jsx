@@ -1,6 +1,13 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Heart, Eye, Target, Lightbulb, Rocket, Shield, Star } from 'lucide-react';
+import MrPeter from '../assets/Mr Peter.jpg';
+import BroDavid from '../assets/BroDavidVersaTrain.jpg';
+import MrBalogun from '../assets/Mr Balogun.jpg';
+import Ore from '../assets/Ore-.jpg';
+import MissIfe from '../assets/Miss Ifeoluwaa.jpg';
+
+
 
 
 const AboutPage = () => {
@@ -8,31 +15,31 @@ const AboutPage = () => {
     {
       name: 'Mr. Robert Peter',
       role: 'Founder & CEO',
-      image: 'src/assets/Mr Peter.jpg',
+      image: MrPeter,
       // bio: 'Educational technology expert with 15+ years in adult learning and skill development.'
     },
     {
       name: 'Mr David',
       role: 'VersaTrain Academy Training Overseer',
-      image: 'src/assets/BroDavidVersaTrain.jpg',
+      image: BroDavid,
       // bio: 'Full-stack developer and former tech lead at major Silicon Valley companies.'
     },
     {
       name: 'Mr Balogun Olamilekan',
       role: 'Chief Operating Officer(COO) and head of IT',
-      image: 'src/assets/Mr Balogun.jpg',
+      image: MrBalogun,
       // bio: 'Award-winning graphic designer with expertise in digital media and brand identity.'
     },
     {
       name: 'Mr Ore-ofe',
       role: 'Personal Development Coach',
-      image: 'src/assets/Ore-.jpg',
+      image: Ore,
       // bio: 'Certified life coach specializing in leadership development and emotional intelligence.'
     },
     {
       name: 'Miss Akinyele Ifeoluwa',
       role: 'Voice of VersaTrain Academy',
-      image: 'src/assets/Miss Ifeoluwaa.jpg',
+      image: MissIfe,
       // bio: 'Certified life coach specializing in leadership development and emotional intelligence.'
     }
   ];
